@@ -1,0 +1,18 @@
+raviashdhassdhkjahsdkjhkajghdkjahkjdhkajshdk sk
+assdhajsghdkjahskd
+asdnkjassgsdihaJSD
+]ASDJAGDHASHDJA
+'SD;A]SDHYASG    1  cd ..
+    2  ls
+    3  cd ~
+    4  ld
+    5  ls
+    6  ls-a
+    7  cd /home
+    8  ls
+    9  cd ubuntu/
+   10  ls
+   11  cd Do
+   12  cd Documents/
+   13  ls
+   14  history > ravi.txt
